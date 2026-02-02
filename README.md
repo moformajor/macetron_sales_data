@@ -26,7 +26,11 @@ The primary objective of this project is to answer key business questions raised
   - What operational or customer behavior patterns can be identified?
 
 ---
+## Analytics Methodology
 
+This project follows a structured, end-to-end data analytics workflow, covering data collection, cleaning, processing, analysis, and dashboard development to ensure accuracy, reliability, and actionable insights.
+
+---
 
 ## Data Cleaning
 
